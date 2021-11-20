@@ -1,4 +1,3 @@
-(https://gitlab.com/life-cycle-detection/lifecycle-fall-detection/-/commits/master)
 [![Powerd By - RIOT OS](https://img.shields.io/badge/Powerd_By-RIOT_OS-add8e6)](https://github.com/RIOT-OS/RIOT)
 
 
