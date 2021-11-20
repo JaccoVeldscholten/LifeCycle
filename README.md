@@ -6,6 +6,13 @@
 
 # LifeCycle
 
+This project is created for the Windesheim HBO-ICT IOT Semester 3. 
+Project contains:
+- STM32 Software for the actual device
+- Flutter Application
+- API Webhook to send data from KPN -> Server
+- Docker Toolchain for building the project
+
 Lifecycle is a device that helps detect a fall from a bicycle. As soon as a fall has been registered, a report is made via KPN's LoRa network to the Cloud. From here, a set person can receive a notification through the app.
 
 The product is developed on the STM32 Artchitecture with [RIOT OS](https://github.com/RIOT-OS/RIOT).
