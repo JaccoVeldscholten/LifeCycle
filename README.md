@@ -1,4 +1,4 @@
-[![pipeline status](https://gitlab.com/life-cycle-detection/lifecycle-fall-detection/badges/master/pipeline.svg)](https://gitlab.com/life-cycle-detection/lifecycle-fall-detection/-/commits/master)
+(https://gitlab.com/life-cycle-detection/lifecycle-fall-detection/-/commits/master)
 [![Powerd By - RIOT OS](https://img.shields.io/badge/Powerd_By-RIOT_OS-add8e6)](https://github.com/RIOT-OS/RIOT)
 
 
